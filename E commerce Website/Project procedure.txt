@@ -1,0 +1,40 @@
+🛒 1. E-Commerce Testing (Manual + Selenium Automation)
+Practice Site: SauceDemo / OpenCart Demo
+Manual Deliverables:
+
+* Test Plan
+
+* 40+ Test Cases (Functional + UI + Negative)
+
+* Bug Report (10–20 defects)
+
+* Traceability Matrix
+
+* Test Summary Report
+
+Automation Deliverables:
+
+* Login automation
+
+* Product search
+
+* Add to cart
+
+* Remove item
+
+* Checkout flow
+
+* Screenshot on failure
+
+* Extent Reports
+
+Tools to Use:
+
+* Selenium + Java + TestNG
+
+* Postman (if API available)
+
+* ChatGPT for test case generation
+
+* Copilot/Codium for code help
+  Make a Step by step procedure how to do this project.
